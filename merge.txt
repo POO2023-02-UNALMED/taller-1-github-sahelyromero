@@ -2,3 +2,4 @@ Sahely
 17
 Aprender a programar en java y crear códigos interesantes
 Ahora puedo hacer commit porque la carpeta no está vacía 
+Porque se puede generar un error ya que git hub no sabe con qué versión quedarse 
